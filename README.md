@@ -2,7 +2,7 @@
 
 Semantic segmentation pipeline for offroad terrain imagery. Classifies each pixel into one of 10 terrain categories.
 
-**mAP50: 67.2%**
+**mAP50: 51.2%**
 
 ## Setup
 
